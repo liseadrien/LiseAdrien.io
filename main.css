@@ -87,7 +87,7 @@
             border-radius: 5px;
             display: flex;
             justify-content: flex-end;
-            /* transition: all 0.003 ease-in; */
+            transition: all 0.003 ease-in;
         }
         
         .progress span {
